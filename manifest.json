@@ -2,7 +2,7 @@
   "name": "AIナンプレ",
   "short_name": "AIナンプレ",
   "description": "オフラインでも遊べる数独パズルアプリ",
-  "start_url": "/",
+  "start_url": "https://namishou.github.io/pwa_sudoku/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4F46E5",
